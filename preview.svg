@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#14463c"/>
+  <rect x="27" y="27" width="1146" height="576" fill="none" stroke="#cdb88e" opacity=".7"/>
+  <circle cx="900" cy="310" r="355" fill="none" stroke="#d2bd93" opacity=".2"/>
+  <path d="M720 630V260c0-130 100-215 225-215s225 85 225 215v370" fill="#205946" stroke="#d2bd93" stroke-width="2"/>
+  <path d="M739 630V265c0-115 90-194 206-194s206 79 206 194v365" fill="none" stroke="#d2bd93" opacity=".5"/>
+  <text x="945" y="450" text-anchor="middle" fill="#d2bd93" opacity=".6" font-family="Georgia,serif" font-size="310" font-style="italic">C</text>
+  <text x="95" y="142" fill="#d2bd93" font-family="Arial,sans-serif" font-size="20" letter-spacing="8">MIS XV AÑOS</text>
+  <text x="90" y="310" fill="#f7f4ec" font-family="Georgia,serif" font-size="88" font-style="italic">Corina</text>
+  <text x="90" y="407" fill="#f7f4ec" font-family="Georgia,serif" font-size="88" font-style="italic">Esmeralda</text>
+  <path d="M95 462h330" stroke="#d2bd93"/>
+  <text x="95" y="520" fill="#eae8dc" font-family="Arial,sans-serif" font-size="23" letter-spacing="7">31 · 10 · 2026</text>
+</svg>
