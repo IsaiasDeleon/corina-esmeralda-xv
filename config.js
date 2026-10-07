@@ -30,7 +30,7 @@ export const invitation = {
     name: 'Salón en Campo de Béisbol Rancho los Rivera',
     time: '',
     mapUrl: 'https://maps.app.goo.gl/ZhQp3c2mdicmCVTb8',
-    image: './assets/corina/hero/SaCo1.jpeg',
+    image: './assets/corina/hero/SaCo1.jpg',
   },
   itinerary: [
     { title: 'Ceremonia Religiosa', time: '2:00 PM', icon: 'ceremony' },
