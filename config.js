@@ -24,7 +24,7 @@ export const invitation = {
     name: 'Iglesia de la Santa Cruz en Xoconoxtle',
     time: '2:00 PM',
     mapUrl: 'https://maps.app.goo.gl/M4GvBeLsmBEyynoE6',
-    image: './assets/corina/hero/IgCo1.jpeg',
+    image: './assets/corina/hero/IgCo2.jpeg',
   },
   reception: {
     name: 'Salón en Campo de Béisbol Rancho los Rivera',
