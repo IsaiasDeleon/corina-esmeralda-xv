@@ -15,7 +15,10 @@ export const invitation = {
     hero: './assets/corina/hero/Co1.jpeg', // Ejemplo: './assets/corina/hero/retrato.webp'
   },
   gallery: [
-    // Hasta cinco: { src: './assets/corina/gallery/foto-01.webp', alt: 'Corina en ...' }
+    { src: './assets/corina/hero/Co2.jpeg', alt: 'Corina en ...' },
+    { src: './assets/corina/hero/Co3.jpeg', alt: 'Corina en ...' },
+    { src: './assets/corina/hero/Co4.jpeg', alt: 'Corina en ...' },
+    { src: './assets/corina/hero/Co5.jpeg', alt: 'Corina en ...' }
   ],
   ceremony: {
     name: 'Iglesia de la Santa Cruz en Xoconoxtle',
