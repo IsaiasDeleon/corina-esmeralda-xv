@@ -45,9 +45,9 @@ export const invitation = {
     description: 'Queremos que disfrutes este día con nosotros. Te invitamos a asistir con el atuendo con el que te sientas más cómodo y listo para celebrar.',
   },
   gift: { type: 'Lluvia de sobres' },
-  music: { src: '' },
+  music: { src: './assets/corina/audio/Barbi.mp3' },
   rsvp: {
-    phone: '', // Código de país y número, solo dígitos. Ejemplo: 52...
+    phone: '524446554750', // Código de país y número, solo dígitos. Ejemplo: 52...
     message: 'Hola, confirmo mi asistencia a los XV años de Corina Esmeralda el 31 de octubre de 2026.',
     deadline: '',
   },
