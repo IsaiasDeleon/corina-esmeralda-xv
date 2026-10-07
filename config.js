@@ -23,14 +23,14 @@ export const invitation = {
   ceremony: {
     name: 'Iglesia de la Santa Cruz en Xoconoxtle',
     time: '2:00 PM',
-    mapUrl: '',
-    image: '',
+    mapUrl: 'https://maps.app.goo.gl/M4GvBeLsmBEyynoE6',
+    image: './assets/corina/hero/IgCo1.jpeg',
   },
   reception: {
     name: 'Salón en Campo de Béisbol Rancho los Rivera',
     time: '',
-    mapUrl: '',
-    image: '',
+    mapUrl: 'https://maps.app.goo.gl/ZhQp3c2mdicmCVTb8',
+    image: './assets/corina/hero/SaCo1.jpeg',
   },
   itinerary: [
     { title: 'Ceremonia Religiosa', time: '2:00 PM', icon: 'ceremony' },
