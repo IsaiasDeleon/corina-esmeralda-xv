@@ -12,7 +12,7 @@ export const invitation = {
     godfather: 'Valentin Blanco Gomez',
   },
   images: {
-    hero: '', // Ejemplo: './assets/corina/hero/retrato.webp'
+    hero: './assets/corina/hero/Co1.jpeg', // Ejemplo: './assets/corina/hero/retrato.webp'
   },
   gallery: [
     // Hasta cinco: { src: './assets/corina/gallery/foto-01.webp', alt: 'Corina en ...' }
